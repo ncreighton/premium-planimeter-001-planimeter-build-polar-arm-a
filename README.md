@@ -1,0 +1,2 @@
+# premium-planimeter-001-planimeter-build-polar-arm-a
+Tired of manually calculating irregular areas and losing track of your planimeter measurements? The Planimeter Build &amp; Polar Arm Area Craft Lab transforms how you document, visualize, and master area calculations in Notion.  This isn't just a template—it's a complete lab environment for understanding planimeter mechanics and polar arm geometry whil
